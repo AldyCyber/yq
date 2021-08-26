@@ -1,2 +1,3 @@
-# yq
-Wegwhwhwywwu
+# Getlocation
+
+kam
